@@ -1,0 +1,15 @@
+
+# Day 3 environment files
+Day_3/.env
+Day_3/.venv/
+Day_3/__pycache__/
+
+
+Day_3/.env
+Day_3/.venv/
+Day_3/__pycache__/
+
+.env
+Day_3/.env
+.venv/
+__pycache__/
